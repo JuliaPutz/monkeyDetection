@@ -1,2 +1,16 @@
 # Project work - Image Recognition
-create a Software to detect monkey species
+by Maximilian Bauer, Cornelia Mayer, Julia Putz
+
+
+
+Software to detect 10 monkey species
+
+
+
+##### Execution requirements
+
+- Python3 environment
+- TensorFlow
+- Keras
+- preferably jupyter notebook
+
